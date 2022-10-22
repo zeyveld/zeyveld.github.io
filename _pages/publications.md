@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Research
-description: 
-years: 
+description: Drafts coming soon!
+years: [2022, 2022, 2022, 2022]
 nav: true
 nav_order: 1
 ---
