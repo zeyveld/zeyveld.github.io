@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Research
 description: Works in progress. Drafts coming soon!
-years: [1967, 1956, 1950, 1935, 1905]
+years: [2022, 2022, 2022, 2022]
 nav: true
 nav_order: 1
 ---
