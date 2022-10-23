@@ -7,16 +7,20 @@ nav: true
 nav_order: 5
 ---
 
-<h2>Michigan State University</h2>
-<h3>Graduate Teaching Assistant</h3>
-<p>Advanced Microeconomics, Fall 2020</p>
-<p>Introduction to Microeconomics, Fall 2022</p>
-<p>Intermediate Macroeconomics, Spring 2020</p>
-<p>Intermediate Microeconomics, Fall 2019</p>
+<h2 style="font-size:16px !important;">Michigan State University</h2>
+<h3 style="font-size:12px !important;">Graduate Teaching Assistant</h3>
+<ul>
+  <li>Advanced Microeconomics, Fall 2020</li>
+  <li>Introduction to Microeconomics, Fall 2022</li>
+  <li>Intermediate Macroeconomics, Spring 2020</li>
+  <li>Intermediate Microeconomics, Fall 2019</li>
+</ul>
 
-<h2>Wyoming Public High School</h2>
-<h3>Student Teacher</h3>
-<p>AP Calculus, Fall 2018</p>
-<p>AP Statistics, Fall 2018</p>
-<p>Pre-Calculus, Fall 2018</p>
-<p>Geometry Essentials, Fall 2018</p>
+<h2 style="font-size:16px !important;">Wyoming Public High School</h2>
+<h3 style="font-size:12px !important;">Student Teacher</h3>
+<ul>
+  <li>AP Calculus, Fall 2018</li>
+  <li>AP Statistics, Fall 2018</li>
+  <li>Pre-Calculus, Fall 2018</li>
+  <li>Geometry Essentials, Fall 2018</li>
+</ul>
