@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<b>Michigan State University</h2>
+<b>Michigan State University</b>
 <p>Graduate Teaching Assistant</p>
 <ul>
   <li>Advanced Microeconomics, Fall 2020</li>
