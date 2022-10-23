@@ -19,4 +19,3 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Doctoral Candidate in Economics at Michigan State University. My research concerns the foundations of consumer economics. How do people's past choices affect their future ones? And how do their preferences vary over time?
-
