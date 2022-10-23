@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirected
 permalink: /cv/
 title: CV
 redirect_to: https://zeyveld.github.io/assets/pdf/example_pdf.pdf
