@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD Candidate</b> @ <a href='http://econ.msu.edu/'>MSU Economics</a> • <b>Empirical IO</b> & <b>Applied 'Metrics</b>
+subtitle: <strong>PhD Candidate</strong> @ <a href='http://econ.msu.edu/'>MSU Economics</a> • <b>Empirical IO</b> & <b>Applied 'Metrics</b>
 
 profile:
   align: right
