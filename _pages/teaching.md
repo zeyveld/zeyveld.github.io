@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<b>Michigan State University</b>
+<strong>Michigan State University</strong>
 <p>Graduate Teaching Assistant</p>
 <ul>
   <li>Advanced Microeconomics, Fall 2020</li>
@@ -16,7 +16,7 @@ nav_order: 5
   <li>Intermediate Microeconomics, Fall 2019</li>
 </ul>
 
-<b>Wyoming Public High School</b>
+<strong>Wyoming Public High School</strong>
 <p>Student Teacher</p>
 <ul>
   <li>AP Calculus, Fall 2018</li>
