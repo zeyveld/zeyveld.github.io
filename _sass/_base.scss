@@ -4,9 +4,20 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+//p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+  //color: var(--global-text-color);
+  //font-family: 'Atkinson Hyperlegible', sans-serif;
+//}
+
+p, h1, h2, h3, h4, h5, h6, em, div, li, span {
   color: var(--global-text-color);
   font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+strong {
+  color: var(--global-text-color);
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-weight: 700;
 }
 
 html {
