@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. My research concerns demand for consumer packaged goods. 
+I am a Doctoral Candidate in Economics at Michigan State University. I study demand for consumer packaged goods. 
