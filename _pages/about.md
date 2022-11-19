@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Empirical IO & Applied 'Metrics</strong>
+subtitle: <strong>PhD Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Empirical IO & Quantitative Marketing</strong>
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. My research concerns the foundations of consumer economics. How do people's past choices affect their future ones? And how do their preferences vary over time?
+I am a Doctoral Candidate in Economics at Michigan State University. My research concerns demand for consumer packaged goods. 
