@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization, Quantitative Marketing & Applied 'Metrics</strong>
+subtitle: <strong>PhD Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Quantitative Marketing</strong>
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. I study demand for consumer packaged goods. 
+I am a Doctoral Candidate in Economics at Michigan State University. My research, which concerns demand for consumer packed goods, couples cutting-edge computing with structural and reduced-form analysis. 
