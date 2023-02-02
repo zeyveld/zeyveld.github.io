@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. My research, which concerns demand for consumer packed goods, couples cutting-edge computing with structural and reduced-form analysis. 
+I am a Doctoral Candidate in Economics at Michigan State University. My research asks how retailers can maximize their profits under consumer learning, within-consumer preference variation, and reference dependence.
