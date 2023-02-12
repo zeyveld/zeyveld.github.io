@@ -10,8 +10,9 @@ nav_order: 5
 <strong>Michigan State University</strong>
 <p>Graduate Teaching Assistant</p>
 <ul>
-  <li>Advanced Microeconomics, Fall 2020</li>
-  <li>Introduction to Microeconomics, Fall 2022</li>
+  <li>Introduction to Macroeconomics, Spring 2023</li>
+  <li>Advanced Microeconomics, Fall 2022</li>
+  <li>Introduction to Microeconomics, Fall 2020</li>
   <li>Intermediate Macroeconomics, Spring 2020</li>
   <li>Intermediate Microeconomics, Fall 2019</li>
 </ul>
