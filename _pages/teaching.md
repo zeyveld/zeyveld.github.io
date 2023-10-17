@@ -8,6 +8,10 @@ nav_order: 5
 ---
 
 <strong>Michigan State University</strong>
+<p>Instructor</p>
+<ul>
+  <li>Microeconomic Theory (Master's of Public Policy program), Fall 2023</li>
+</ul>
 <p>Graduate Teaching Assistant</p>
 <ul>
   <li>Introduction to Macroeconomics, Spring 2023</li>
