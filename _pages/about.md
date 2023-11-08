@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. My research asks how retailers can maximize profits under consumer learning, stockout substitutions, and reference dependence.
+I am a Doctoral Candidate in Economics at Michigan State University. My research asks how retailers can maximize profits under consumer learning, stockouts, and reference dependence.
