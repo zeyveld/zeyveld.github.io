@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Doctoral Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Empirical IO & Quantitative Marketing</strong>
+subtitle: <strong>Doctoral Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
 
 profile:
   align: right
