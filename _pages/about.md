@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>5L Berkey Hall</p>
-    <p>506 E Circle Dr</p>
+    <p>Department of Economics</p>
+    <p>Michigan State University</p>
+    <p>486 W. Circle Drive</p>
+    <p>110 Marshall-Adams Hall</p>
     <p>East Lansing, MI 48824</p>
 
 news: false  # includes a list of news items
