@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: <a href="mailto:zeyveld@msu.edu">zeyveld@msu.edu</a> </p>
-    <p>Phone: (616) 570-5221</p>
+    <p>Phone: <a href="tel:6165705221">(616) 570-5221</a></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
