@@ -9,11 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Economics</p>
-    <p>Michigan State University</p>
-    <p>486 W. Circle Drive</p>
-    <p>110 Marshall-Adams Hall</p>
-    <p>East Lansing, MI 48824</p>
+    <p>Email: <a href="mailto:zeyveld@msu.edu">zeyveld@msu.edu</a> </p>
+    <p>Phone: (616) 570-5221</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
