@@ -11,13 +11,15 @@ nav_order: 5
 <p>Instructor</p>
 <ul>
   <li>Microeconomic Theory (Master of Public Policy Program), Fall 2023</li>
-  <em>&nbsp; Click <a href="https://zeyveld.github.io/assets/pdf/SPLS-PPL-805-Zeyveld-Andrew.pdf" target="_blank">here</a> for course reviews.<br>
-  &nbsp; Selected student comments:
-    <ul> 
-      <li>"The course was very intuitive and gave me knowledge about how economic decisions are made when it comes to policies."</li>
-      <li>"I liked how [Andrew] often included fun facts throughout the lecture about what we were learning. It helped me remember the concepts.</li>
-      <li>"The worksheets were very helpful. As someone who does not have a backround in econ, seeing the solutions helped me work backward for the solutions.</li>
-    </ul></em>
+    <ul>
+      <li>Click <a href="https://zeyveld.github.io/assets/pdf/SPLS-PPL-805-Zeyveld-Andrew.pdf" target="_blank">here</a> for course reviews</li>
+      <li>Selected student comments:</li>
+      <ul> 
+        <li><em>"The course was very intuitive and gave me knowledge about how economic decisions are made when it comes to policies."</li>
+        <li>"I liked how [Andrew] often included fun facts throughout the lecture about what we were learning. It helped me remember the concepts.</li>
+        <li>"The worksheets were very helpful. As someone who does not have a backround in econ, seeing the solutions helped me work backward for the solutions.</li>
+      </ul></em>
+    </ul>
 </ul>
 <p>Graduate Teaching Assistant</p>
 <ul>
