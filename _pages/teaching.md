@@ -16,8 +16,8 @@ nav_order: 5
       <li>Selected student comments:
         <ul> 
           <li><em>"The course was very intuitive and gave me knowledge about how economic decisions are made when it comes to policies."</em></li>
-          <li><em>"I liked how [Andrew] often included fun facts throughout the lecture about what we were learning. It helped me remember the concepts.</em></li>
-          <li><em>"The worksheets were very helpful. As someone who does not have a backround in econ, seeing the solutions helped me work backward for the solutions.</em></li>
+          <li><em>"I liked how [Andrew] often included fun facts throughout the lecture about what we were learning. It helped me remember the concepts."</em></li>
+          <li><em>"The worksheets were very helpful. As someone who does not have a backround in econ, seeing the solutions helped me work backward for the solutions."</em></li>
         </ul>
       </li>
     </ul>
