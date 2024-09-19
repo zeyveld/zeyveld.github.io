@@ -11,10 +11,11 @@ profile:
   address: >
     <p>Email: <a href="mailto:zeyveld@msu.edu">zeyveld@msu.edu</a> </p>
     <p>Phone: <a href="tel:6165705221">(616) 570-5221</a></p>
+    <p>LinkedIn: <a href='https://www.linkedin.com/in/andrew-zeyveld-9baa48212/'>Andrew Zeyveld</a> </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. candidate in Economics at Michigan State University, specializing in Empirical Industrial Organization and Applied Econometrics. My current research focuses on consumer learning, demand estimation with micro data, and reference-dependent preferences.
