@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Andrew
 middle_name: 
 last_name: Zeyveld
-email: vanzytv5@msu.edu
+email: zeyveld@msu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: empirical industrial organization, applied econometrics, economics  # add your own keywords or leave empty
 
@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: Andrew Zeyveld # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID

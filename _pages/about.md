@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Doctoral Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
+subtitle: <strong>Ph.D. Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
 
 profile:
   align: right
@@ -14,7 +14,11 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Doctoral Candidate in Economics at Michigan State University. My research asks how retailers can maximize profits under consumer learning, stockouts, and reference dependence.
+I am a Ph.D. candidate in Economics at Michigan State University, specializing in Empirical Industrial Organization and Applied Econometrics. My current research focuses on consumer learning, demand estimation with micro data, and reference-dependent preferences.
+
+I am on the 2024–25 academic job market (both US and international).
+
+
