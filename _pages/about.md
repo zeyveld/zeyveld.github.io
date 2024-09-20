@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Ph.D. Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
+subtitle: <strong>PhD Candidate @ <a href='http://econ.msu.edu/'>MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
 
 profile:
   align: right
