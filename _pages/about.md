@@ -20,6 +20,6 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD candidate in Economics at Michigan State University, specializing in Industrial Organization and Applied Econometrics. My current research concerns consumer learning, demand estimation with micro data, and choice-set dependence.
 
-I am on the 2024–25 academic job market (both US and international).
+I am on the 2024–25 job market (both US and international).
 
 
