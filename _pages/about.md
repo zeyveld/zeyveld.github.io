@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Candidate @ <a "href=http://econ.msu.edu/">MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
+subtitle: <strong>PhD Candidate @ <a href="https://econ.msu.edu/">MSU Economics</a> • Industrial Organization & Applied Econometrics</strong>
 
 profile:
   align: right
@@ -20,6 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD candidate in Economics at Michigan State University, specializing in Industrial Organization and Applied Econometrics. My current research concerns consumer learning, demand estimation with micro data, and choice-set dependence.
 
+I will be joining <a href="https://www.bateswhite.com/">Bates White</a> as an Economist later this year.
 
 
 
