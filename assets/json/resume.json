@@ -1,67 +1,92 @@
 {
   "basics": {
     "name": "Andrew Zeyveld",
-    "label": "Economist",
+    "label": "",
     "image": "",
     "email": "zeyveld@msu.edu",
     "phone": "(616) 570-5221",
-    "url": "https://zeyveld.github.io/",
+    "url": "",
     "summary": ""
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Bates White",
+      "position": "Economist",
+      "url": "https://www.bateswhite.com/",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Michigan State University",
+      "location": "",
+      "url": "https://econ.msu.edu/",
+      "area": "Economics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019",
+      "endDate": "2025",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Dissertation: Essays in Empirical Industrial Organization"]
     }
   ],
-  "publications": [
+  "working papers": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Steering Consumers' Learning: Evidence from Stockout Substitutions in Curbside Pickup",
+      "releaseDate": "2025",
+      "summary": "Items ordered for curbside pickup sometimes go out of stock. This obliges the store to choose substitutes on the affected consumers' behalf. Using novel data from a supermarket chain, I show that these ``stockout substitutions'' influence consumers' future purchases through the mechanism of learning. This presents the store with the following opportunity to increase its future profits: if the store selects substitutes from profitable brands that the consumers have never tried before, some of them will learn that they like the brands of their substitutes and then purchase these brands' products in the future. However, I find that consumers are less likely to accept such substitutes than they are to accept substitutes from brands they have previously purchased. To quantify the trade-off between steering consumers' learning and maximizing the probability that substitutes are accepted, I estimate a learning-based model of differentiated products demand. The gains from steering consumers' learning depend on their respective purchase histories as well as the extent of learning in the product category."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Demand Estimation When Consumers' Preferences Vary over Time",
+      "releaseDate": "2025",
+      "summary": "This paper shows that workhorse demand systems fail to reproduce important substitution patterns when individual consumers' preferences vary over time. This failure is rooted in the independence of preferred alternatives (IPA) properties of conditional and mixed logit, which restrict the relationship between consumers' purchases and their preferences among unpurchased goods. To assess the empirical relevance of the IPA properties, I employ novel data from stockout substitutions in curbside pickup. For the two product categories that I study, I document substitution patterns that are inconsistent with the IPA property of conditional logit. As for mixed logit, its IPA property proves consistent with the substitution patterns in one of the two product categories. To quantify the benefits of relaxing the IPA property of mixed logit, I compare the model's goodness of fit with that of mixed probit (which does not display an IPA property). In keeping with the descriptive evidence, the results of this comparison vary by product category."
     }
   ],
-  "awards": [
+  "works in progress": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Steering Consumers' Learning: Evidence from Stockout Substitutions in Curbside Pickup",
+      "releaseDate": "2025",
+      "summary": "Items ordered for curbside pickup sometimes go out of stock. This obliges the store to choose substitutes on the affected consumers' behalf. Using novel data from a supermarket chain, I show that these ``stockout substitutions'' influence consumers' future purchases through the mechanism of learning. This presents the store with the following opportunity to increase its future profits: if the store selects substitutes from profitable brands that the consumers have never tried before, some of them will learn that they like the brands of their substitutes and then purchase these brands' products in the future. However, I find that consumers are less likely to accept such substitutes than they are to accept substitutes from brands they have previously purchased. To quantify the trade-off between steering consumers' learning and maximizing the probability that substitutes are accepted, I estimate a learning-based model of differentiated products demand. The gains from steering consumers' learning depend on their respective purchase histories as well as the extent of learning in the product category."
+    },
+    {
+      "name": "Choice Set--Dependent Preferences in Grocery Purchases",
+      "releaseDate": "2025"
+    }
+  ],
+  "awards, scholarships, and grants": [
+    {
+      "title": "Excellence in Teaching Award, MSU Department of Economics",
+      "date": "2024",
+      "awarder": "Michigan State University Department of Economics"
+    },
+    {
+      "title": "Graduate Student Award",
+      "date": "2023",
+      "awarder": "SEA Annual Meeting"
+    },
+    {
+      "title": "Summer Research Fellowship",
+      "date": "2023",
+      "awarder": "Michigan State University Department of Economics"
+    }
+  ],
+  "presentations": [
+    {
+      "title": "EARIE Annual Conference",
+      "date": "2024",
+      "location": "Amsterdam, the Netherlands"
+    },
+    {
+      "title": "GVSU Economics Seminar",
+      "date": "2024",
+      "location": "Grand Rapids, MI"
+    },
+    {
+      "title": "SEA Annual Meeting",
+      "date": "2023",
+      "location": "New Orleans, LA"
     }
   ],
   "skills": [
