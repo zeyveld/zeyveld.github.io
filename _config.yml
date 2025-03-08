@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Andrew
 middle_name: 
 last_name: Zeyveld
@@ -200,6 +200,7 @@ exclude:
   - \_pages/books.md
   - \_pages/news.md
   - \_pages/projects.md
+  - \_pages/profiles.md
   - \_pages/repositories.md 
   - \_pages/teaching.md
   - \_includes/repository/

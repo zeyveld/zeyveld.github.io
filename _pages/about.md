@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Economics at Michigan State University, specializing in Industrial Organization and Applied Econometrics. My current research concerns consumer learning, demand estimation with micro data, and choice-set dependence.
+I am a PhD candidate in Economics at Michigan State University, specializing in Industrial Organization and Applied Econometrics. My current research concerns consumer learning, choice-set dependence, and food pantries.
 
 I will be joining <a href="https://www.bateswhite.com/">Bates White</a> as an Economist later this year.
