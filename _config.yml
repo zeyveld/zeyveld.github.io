@@ -187,6 +187,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor # All below are added
+  - \_includes/footer.liquid
   - \_includes/projects_horizontal.liquid
   - \_includes/projects.liquid
   - \_includes/repository/
